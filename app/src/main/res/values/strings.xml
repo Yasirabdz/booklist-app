@@ -1,0 +1,111 @@
+<resources>
+    <string name="app_name">Book List</string>
+    <string name="about_me">About Me</string>
+    <string name="name">Yasir Abduzzhohir</string>
+    <string name="email">yasirabduzzhohir@gmail.com</string>
+
+    <string name="books_name">Nama books</string>
+    <string name="description">Dekripsi</string>
+    <string name="synopsis">Sinopsis</string>
+
+    <string-array name="data_name">
+        <item>Negeri Para Bedebah</item>
+        <item>Negeri Di Ujung Tanduk</item>
+        <item>Pulang</item>
+        <item>Pergi</item>
+        <item>Pulang Pergi</item>
+        <item>Bedebaah Di Ujung Tanduk</item>
+        <item>Tanah Para Bandit</item>
+        <item>Bandit Bandit Berkelas</item>
+        <item>Tentang Kamu</item>
+        <item>Yang Telah Lama Pergi</item>
+        <item>Selamat Tinggal</item>
+        <item>Rindu</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Tere Liye\nFirst published July 1, 2012 · 440 pages</item>
+        <item>Tere Liye\nFirst published April 1, 2013 · 360 pages</item>
+        <item>Tere Liye\nFirst published October 1, 2015 · 404 pages</item>
+        <item>Tere Liye\nFirst published March 1, 2018 · 460 pages</item>
+        <item>Tere Liye\nPublished January 1, 2021 · 417 pages</item>
+        <item>Tere Liye\nFirst published October 28, 2021 · 414 pages</item>
+        <item>Tere Liye\nPublished February 1, 2023 · 436 pages</item>
+        <item>Tere Liye\nPublished May 1, 2024 · 368 pages</item>
+        <item>Tere Liye\nFirst published October 27, 2016 · 524 pages</item>
+        <item>Tere Liye\nPublished May 16, 2023 · 444 pages</item>
+        <item>Tere Liye\nFirst published May 7, 2020 · 360 pages</item>
+        <item>Tere Liye\nFirst published September 25, 2014 · 544 pages</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/img_negeriparabedebah</item>
+        <item>@drawable/img_negeridiujungtanduk</item>
+        <item>@drawable/img_pulang</item>
+        <item>@drawable/img_pergi</item>
+        <item>@drawable/img_pulangpergi</item>
+        <item>@drawable/img_bedebahdiujungtanduk</item>
+        <item>@drawable/img_tanahparabandit</item>
+        <item>@drawable/img_banditbanditberkelas</item>
+        <item>@drawable/img_tentangkamu</item>
+        <item>@drawable/img_yangtelahlamapergi</item>
+        <item>@drawable/img_selamattinggal</item>
+        <item>@drawable/img_rindu</item>
+    </integer-array>
+
+    <string-array name="data_synopsis">
+        <item>Di negeri para bedebah, kisah fiksi kalah seru dibanding kisah nyata.
+            \n\nDi negeri para bedebah, musang berbulu domba berkeliaran di halaman rumah.
+            \n\nTetapi setidaknya, Kawan, di negeri para bedebah, petarung sejati tidak akan pernah berkhianat.</item>
+        <item>Di Negeri di Ujung Tanduk kehidupan semakin rusak, bukan karena orang jahat semakin banyak, tapi semakin banyak orang yang memilih tidak peduli lagi.
+            \n\nDi Negeri di Ujung Tanduk, para penipu menjadi pemimpin, para pengkhianat menjadi pujaan, bukan karena tidak ada lagi yang memiliki teladan, tapi mereka memutuskan menutup mata dan memilih hidup bahagia sendirian.
+            \n\nTapi di Negeri di Ujung Tanduk setidaknya, kawan, seorang petarung sejati akan memilih jalan suci, meski habis seluruh darah di badan, menguap segenap air mata, dia akan berdiri paling akhir, demi membela kehormatan.</item>
+        <item>"Aku tahu sekarang, lebih banyak luka di hati bapakku dibanding di tubuhnya. Juga mamakku, lebih banyak tangis di hati Mamak dibanding di matanya."
+            \n\nSebuah kisah tentang perjalanan pulang, melalui pertarungan demi pertarungan, untuk memeluk erat semua kebencian dan rasa sakit."</item>
+        <item>Sebuah kisah tentang menemukan tujuan, ke mana hendak pergi, melalui kenangan demi kenangan masa lalu, pertarungan hidup-mati, untuk memutuskan ke mana langkah kaki akan dibawa.</item>
+        <item>"Ada jodoh yang ditemukan lewat tatapan pertama.
+            \nAda persahabatan yang diawali lewat sapa hangat.
+            \nBagaimana jika takdir bersama ternyata,
+            \ndiawali dengan pertarungan mematikan?
+            \nLantas semua cerita berkelindan dengan,
+            \npengejaran demi pengejaran mencari jawaban?
+            \nPulang-Pergi."</item>
+        <item>Di Negeri Para Bedebah, pencuri, perampok, bagai musang berbulu domba. Di depan, wajah mereka tersenyum penuh pencitraan. Di belakang penuh tipu-tipu.
+            \n\nDi Negeri di Ujung Tanduk, pencuri, perampok, berkeliaran menjadi penegak hukum. Di depan, di belakang, mereka tidak malu-malu lagi.
+            \n\nTapi setidaknya, Kawan, dalam situasi apapun, petarung sejati akan terus memilih kehormatan hidupnya. Bahkan ketika nasib di ujung tanduk. Dia akan terus bertarung habis-habisan, bersama sahabat sejati. Karena esok, matahari akan terbit sekali lagi. Bersama harapan.</item>
+        <item>Di sini, para penjahat dibesarkan sejak buaian.
+            \nDilatih lewat kebohongan. Dididik dengan kemunafikan.
+            \nDiajarkan melalui ketidakpedulian.
+            \n\nDi sini, semua bisa diatur sepanjang ada uangnya.
+            \nYang bodoh bisa menjadi pintar seketika. Yang tidak layak bisa segera memenuhi syarat. Yang bersalah bisa jadi benar.
+            \nYang bengkok bisa diluruskan. Tidak suka lurus? Mari dibengkokkan lagi.
+            \n\nDi sini, di Tanah Para Bandit, tidak ada lagi beda antara penjahat bejat dengan tuan nyonya terhormat. Mencuri, merampok hak orang lain, lumrah saja.
+            \nAyo, jangan terlalu serius, Kawan. Kita berpesta malam ini.
+            \n\nBuku ini adalah buku ke-7 dari serial aksi Tere Liye. Setelah: Negeri Para Bedebah, Negeri Di Ujung Tanduk, Pulang, Pergi, Pulang-Pergi, dan Bedebah Di Ujung Tanduk.</item>
+        <item>Mereka memang adalah bedebah.
+            \nBandit-bandit.
+            \nTapi mereka bukan pengkhianat, orang-orang bermuka dua, penjilat dan tabiat murahan lainnya.
+            \nMereka adalah bandit-bandit dengan kehormatan. Setia kawan. Pemegang janji terbaik.
+            \nMereka adalah bandit-bandit berkelas.</item>
+        <item>Terima kasih untuk kesempatan mengenalmu, itu adalah salah satu anugerah terbesar hidupku. Cinta memang tidak perlu ditemukan, cintalah yang akan menemukan kita. Terima kasih. Nasihat lama itu benar sekali, aku tidak akan menangis karena sesuatu telah berakhir, tapi aku akan tersenyum karena sesuatu itu pernah terjadi. Masa lalu. Rasa sakit. Masa depan. Mimpi-mimpi. Semua akan berlalu, seperti sungai yang mengalir. Maka biarlah hidupku mengalir seperti sungai kehidupan.
+            \n\n***
+            \n\nAtas dasar pekerjaan, Zaman Zulkarnaen harus menelusuri hidup seorang kliennya, perempuan pemegang paspor Inggris yang barusan meninggal dan mewariskan harta yang jumlahnya bisa menyaingi kekayaan Ratu Inggris. Tiga negara, lima kota, beribu luka. Hingga akhirnya Zaman mengerti, bahwa ini bukan sekadar perkara mengerti jalan hidup seorang klien, melainkan pengejawantahan prinsip kuat di tengah cobaan yang terus mendera.
+            \n\nTentang Kamu adalah novel terbaru Tere Liye. Sebuah karya yang tak hanya akan membawa pembacanya menyelami sebuah petualangan yang seru dan sarat emosi, tapi juga memberikan nilai positif sehingga membuat hidup serasa lebih patut disyukuri.</item>
+        <item>Sakit hati....
+            \nKebencian....
+            \nDendam kesumat....
+            \nTangis dibalas tangis....
+            \nLuka dibalas luka....</item>
+        <item>Kita tidak sempurna. Kita mungkin punya keburukan, melakukan kesalahan, bahkan berbuat jahat, menyakiti orang lain. Tapi beruntunglah yang mau berubah. Berjanji tidak melakukannya lagi, memperbaiki, dan menebus kesalahan tersebut.
+            \n\nMari tutup masa lalu yang kelam, mari membuka halaman yang baru. Jangan ragu-ragu. Jangan cemas. Tinggalkanlah kebodohan dan ketidakpedulian. “Selamat Tinggal” suka berbohong, “Selamat Tinggal” kecurangan, “Selamat Tinggal” sifat-sifat buruk lainnya.
+            \n\nKarena sejatinya, kita tahu persis apakah kita memang benar-benar bahagia, baik, dan jujur. Sungguh “Selamat Tinggal” kepalsuan hidup.
+            \n\nSelamat membaca novel ini. Dan jika kamu telah tiba di halaman terakhirnya, merasa novel ini menginspirasimu, maka kabarkan kepada teman, kerabat, keluarga lainnya. Semoga inspirasinya menyebar luas.</item>
+        <item>"Apalah arti memiliki, ketika diri kami sendiri bukanlah milik kami?
+            \n\nApalah arti kehilangan, ketika kami sebenarnya menemukan banyak saat kehilangan, dan sebaliknya, kehilangan banyak pula saat menemukan?
+            \n\nApalah arti cinta, ketika menangis terluka atas perasaan yg seharusnya indah? Bagaimana mungkin, kami terduduk patah hati atas sesuatu yg seharusnya suci dan tidak menuntut apa pun?
+            \n\nWahai, bukankah banyak kerinduan saat kami hendak melupakan? Dan tidak terbilang keinginan melupakan saat kami dalam rindu? Hingga rindu dan melupakan jaraknya setipis benang saja”
+            \n\nRindu- Tere Liye. Lima kisah dalam sebuah perjalanan panjang kerinduan.
+            Selamat membaca.</item>
+    </string-array>
+
+</resources>
